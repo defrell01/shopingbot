@@ -1,0 +1,80 @@
+{
+    "id": 299795042,
+    "category_id": 24202290,
+    "created_at": "2022-05-08T00:20:51.000+03:00",
+    "updated_at": "2023-04-26T16:12:57.000+03:00",
+    "is_hidden": false,
+    "available": false,
+    "archived": false,
+    "canonical_url_collection_id": null,
+    "custom_template": null,
+    "unit": "pce",
+    "sort_weight": null,
+    "ignore_discounts": false,
+    "vat": -1,
+    "dimensions": null,
+    "fiscal_product_type": 1,
+    "title": "Эликсир любви",
+    "short_description": null,
+    "permalink": "eliksir-lyubvi-3",
+    "html_title": null,
+    "meta_keywords": null,
+    "meta_description": null,
+    "currency_code": "RUR",
+    "collections_ids": [],
+    "sales_channels_id": [],
+    "description": null,
+    "images": [],
+    "video_links": [],
+    "option_names": [],
+    "properties": [],
+    "characteristics": [],
+    "product_field_values": [
+        {
+            "id": 302058740,
+            "product_field_id": 97847,
+            "value": "299795042"
+        }
+    ],
+    "variants": [
+        {
+            "id": 518802219,
+            "title": "",
+            "product_id": 299795042,
+            "sku": "OZN564421194",
+            "barcode": "2029941877067",
+            "dimensions": null,
+            "available": false,
+            "image_ids": [],
+            "image_id": null,
+            "weight": null,
+            "created_at": "2022-05-08T00:20:51.000+03:00",
+            "updated_at": "2023-04-26T16:18:34.000+03:00",
+            "quantity": 0,
+            "quantity_at_warehouse0": "0.0",
+            "cost_price": null,
+            "cost_price_in_site_currency": null,
+            "price_in_site_currency": "505.0",
+            "base_price": "505.0",
+            "old_price": null,
+            "price": "505.0",
+            "base_price_in_site_currency": "505.0",
+            "old_price_in_site_currency": null,
+            "prices": [
+                null
+            ],
+            "prices_in_site_currency": [
+                null
+            ],
+            "variant_field_values": [
+                {
+                    "id": 54768481,
+                    "variant_field_id": 17522,
+                    "value": "299795042"
+                }
+            ],
+            "option_values": []
+        }
+    ],
+    "product_bundle_components": []
+}
